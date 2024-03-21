@@ -1,0 +1,12 @@
+/Users/ash_ap/Rust_projects/examplar/day_1/target/debug/deps/libxdotool-5ebaeb54cae4d67e.rmeta: /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/lib.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/command.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/desktop.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/keyboard.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/misc.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/mouse.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/optionvec.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/window.rs
+
+/Users/ash_ap/Rust_projects/examplar/day_1/target/debug/deps/xdotool-5ebaeb54cae4d67e.d: /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/lib.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/command.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/desktop.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/keyboard.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/misc.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/mouse.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/optionvec.rs /Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/window.rs
+
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/lib.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/command.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/desktop.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/keyboard.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/misc.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/mouse.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/optionvec.rs:
+/Users/ash_ap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xdotool-0.0.2/src/window.rs:
